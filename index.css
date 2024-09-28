@@ -1,0 +1,25 @@
+/* Set the slide background to white */
+.reveal {
+    background-color: #ffffff;  /* White background */
+    color: #333333;  /* Dark text for better readability */
+}
+
+/* Dark Plum headers */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #4F0433;  /* Dark Plum */
+}
+
+/* Decrease font size of all text within the .content class */
+.content {
+    font-size: 80%;
+}
+
+.logo {
+    position: fixed; /* Keeps the logo fixed on the screen */
+    bottom: 10px;    /* Adjust this value to suit your preference */
+    right: 20px;     /* Adjust this value to suit your preference */
+    width: 350px;    /* Adjust the size as needed */
+    z-index: 10000;  /* Set a very high z-index to ensure visibility */
+    opacity: 1;      /* Ensures the logo is fully opaque */
+    visibility: visible; /* Overrides any hidden settings */
+}
