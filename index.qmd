@@ -9,7 +9,7 @@ format:
 **Bedside assessment of microvascular dysfunction**
 
 method evaluation in clinical studies
-<img src="images/ki-ds.png" class="logo" style="width: 350px; height: auto;">
+<img src="images/ki-ds.png" class="logo" style="width: 400px; height: auto;">
 
 ## Disposition
 - <span style="font-size:30px;">**Introduction and Background**: Introduction to the topic, research objectives</span>
@@ -29,15 +29,23 @@ method evaluation in clinical studies
 
 ### Relevance
 
-- <span style="font-size:25px;">**Key Areas**: Cardiovascular disease, diabetes, heart failure, sepsis</span>
+Picture
 
-<span class="fragment" data-fragment-index="1" style="font-size:25px;">*Clinical Implications*</span>
+---
+
+<span style="font-size: 20px;">Introduction and Background</span>
+
+### Relevance
+
+<span style="font-size:25px;">**Key Areas**: Cardiovascular disease, diabetes, heart failure, sepsis</span>
+
+<span class="fragment" data-fragment-index="1" style="font-size:25px;">Clinical Implications</span>
   
-  <span class="fragment" data-fragment-index="2" style="font-size:20px;">**Early Detection and Prevention**: Monitoring microvascular function helps identify patients at high risk, enabling early intervention and preventive measures.</span>
+<span class="fragment" data-fragment-index="2" style="font-size:20px;">**Early Detection and Prevention**: Monitoring microvascular function helps identify patients at high risk, enabling early intervention and preventive measures.</span>
   
-  <span class="fragment" data-fragment-index="3" style="font-size:20px;">**Disease Progression and Treatment Monitoring**: Microvascular assessment provides a window into disease activity, aiding in the evaluation of treatment effectiveness.</span>
+<span class="fragment" data-fragment-index="3" style="font-size:20px;">**Disease Progression and Treatment Monitoring**: Microvascular assessment provides a window into disease activity, aiding in the evaluation of treatment effectiveness.</span>
   
-  <span class="fragment" data-fragment-index="4" style="font-size:20px;">**Goal-directed therapy**: Insights into microvascular health support goal-directed therapies, optimizing treatment plans tailored to individual needs.</span>
+<span class="fragment" data-fragment-index="4" style="font-size:20px;">**Goal-directed therapy**: Insights into microvascular health support goal-directed therapies, optimizing treatment plans tailored to individual needs.</span>
 <img src="images/ki-ds.png" class="logo">
 
 ---
@@ -46,19 +54,50 @@ method evaluation in clinical studies
 
 ### Problem
 
-- <span style="font-size:25px; font-family: Arial, sans-serif;">**Current methods**</span>
+<div style="margin-bottom: 40px;"></div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:350px; font-size:25px; white-space: nowrap; font-family: Arial, sans-serif;">Capillary refill time</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px; font-family: Arial, sans-serif;">Subjectivity, variability, sens/spec, non-quantifiable*</span>
+<span style="font-size:25px;">**Current methods**</span>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:350px; font-size:25px; white-space: nowrap; font-family: Arial, sans-serif;">Coronary angiography</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px; font-family: Arial, sans-serif;">Invasive, cumbersome, resource intensive, organ specific</span>
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Capillary refill time</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Subjectivity, variability, sens/spec, non-quantifiable*</span>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:350px; font-size:25px; white-space: nowrap; font-family: Arial, sans-serif;">Stress Cardiac MRT</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px; font-family: Arial, sans-serif;">Cumbersome, resource intensive, organ specific</span>
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Coronary angiography</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Invasive, cumbersome, resource intensive, organ specific</span>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:350px; font-size:25px; white-space: nowrap; font-family: Arial, sans-serif;">Biomarkers</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px; font-family: Arial, sans-serif;">Analysis time, interpretation, resource intensive</span>
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Stress Cardiac MRT</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Cumbersome, resource intensive, organ specific</span>
+
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Biomarkers</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Analysis time, interpretation, resource intensive</span>
+<img src="images/ki-ds.png" class="logo">
+
+---
+
+<span style="font-size: 20px;">Introduction and Background</span>
+
+### Problem
+
+<div style="margin-bottom: 40px;"></div>
+
+<span style="font-size:25px;">**Future methods - what is needed?**</span>
+
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Quantitative</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Precision and comparison</span>
+
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Non-invasive</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Risk and discomfort</span>
+
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Low variability and High sensitivity</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Consistency and precision</span>
+
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Rapid and ease of use</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Clinical convenience</span>
+
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Organ-agnostic</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Systemic dysfunction</span>
+
+<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Cost-effective</span>
+<span class="fragment" data-fragment-index="2" style="font-size:25px;">Iterative usage and goal-directed</span>
 <img src="images/ki-ds.png" class="logo">
 
 ---
