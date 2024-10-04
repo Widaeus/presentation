@@ -16,10 +16,18 @@
 
 .logo {
     position: fixed; /* Keeps the logo fixed on the screen */
-    bottom: 10px;    /* Adjust this value to suit your preference */
-    right: 20px;     /* Adjust this value to suit your preference */
-    width: 350px;    /* Adjust the size as needed */
+    bottom: 0px;    /* Adjust this value to suit your preference */
+    right: 0px;     /* Adjust this value to suit your preference */
+    width: 300px;    /* Adjust the size as needed */
     z-index: 10000;  /* Set a very high z-index to ensure visibility */
     opacity: 1;      /* Ensures the logo is fully opaque */
     visibility: visible; /* Overrides any hidden settings */
 }
+
+.reveal .footer {
+    font-size: 12px;  /* Adjust the font size */
+    text-align: left;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }

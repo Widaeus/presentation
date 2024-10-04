@@ -8,7 +8,7 @@
 <link href="index_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="index_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.551">
+  <meta name="generator" content="quarto-1.5.57">
 
   <title>index</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -327,54 +327,60 @@
 
 
 <section>
-<section id="presentation" class="title-slide slide level1 center">
-<h1>Presentation</h1>
-<p><img src="images/ki-ds.png" class="logo" style="width: 350px; height: auto;"></p>
+<section id="individual-study-plan" class="title-slide slide level1 center">
+<h1>Individual study plan</h1>
+<p><strong>Bedside assessment of microvascular dysfunction</strong></p>
+<p>method evaluation in clinical studies <img src="images/ki-ds.png" class="logo" style="width: 350px; height: auto;"></p>
 </section>
-<section id="slide-1-introduction" class="slide level2">
-<h2>Slide 1: Introduction</h2>
+<section id="disposition" class="slide level2">
+<h2>Disposition</h2>
 <ul>
-<li><strong>Welcome</strong>: Introduction to the topic and objectives of the presentation.</li>
-<li><strong>Agenda</strong>: Outline of the topics to be discussed. <img src="images/ki-ds.png" class="logo"></li>
+<li><strong>Introduction and Background</strong>: Introduction to the topic, research objectives and hypothesis</li>
+<li><strong>Research plan and Methodology</strong>: Study designs, methods and analysis approach.</li>
+<li><strong>Timeline and Milestones</strong>: Project timeline with key milestones and expected completion dates for each phase.</li>
+<li><strong>Resources and Support</strong>: Overview of necessary resoruces, required support, and collaborations.</li>
+<li><strong>Discussion and Feedback</strong>: Opporunity for audience questions, input, and feedback. <img src="images/ki-ds.png" class="logo"></li>
 </ul>
 </section>
-<section id="slide-2-background" class="slide level2">
-<h2>Slide 2: Background</h2>
+<section id="introduction-and-background" class="slide level2">
+<h2>Introduction and Background</h2>
 <ul>
 <li><strong>Innovation 1</strong>: Description and impact.</li>
-<li><strong>Innovation 2</strong>: Description and impact. <img src="images/ki-ds.png" class="logo"></li>
 </ul>
-</section>
-<section id="slide-3-hypothesis" class="slide level2">
-<h2>Slide 3: Hypothesis</h2>
-<ul>
-<li><strong>Case Study 1</strong>: Key insights and outcomes.</li>
-<li><strong>Case Study 2</strong>: Key insights and outcomes. <img src="images/ki-ds.png" class="logo"></li>
-</ul>
-</section>
-<section id="slide-4-methods" class="slide level2">
-<h2>Slide 4: Methods</h2>
-<ul>
-<li><strong>Partnerships</strong>: How collaboration fosters innovation.</li>
-<li><strong>Future Projects</strong>: Upcoming initiatives and expected impacts. <img src="images/ki-ds.png" class="logo"></li>
-</ul>
-</section>
-<section id="slide-5-conclusion" class="slide level2">
-<h2>Slide 5: Conclusion</h2>
-<ul>
-<li><strong>Summary</strong>: Key points discussed.</li>
-<li><strong>Q&amp;A</strong>: Invite questions from the audience. <img src="images/ki-ds.png" class="logo"></li>
-</ul>
-</section>
-<section class="slide level2">
 
-<p>Note: The actual content needs to be filled in by referencing the material that you want to present, as Quarto does not extract content from <code>.potx</code> files. This example assumes manual input of content into the Quarto document. <img src="images/ki-ds.png" class="logo"></p>
+<img src="images/ki-ds.png" class="logo r-stretch"></section>
+<section id="research-plan-and-methodology" class="slide level2">
+<h2>Research plan and Methodology</h2>
+<ul>
+<li><strong>Case Study 1</strong>: Key insights and outcomes. <img src="images/ki-ds.png" class="logo"></li>
+</ul>
 </section>
-<section class="slide level2">
-
+<section id="timeline-and-milestones" class="slide level2">
+<h2>Timeline and Milestones</h2>
+<ul>
+<li><strong>Partnerships</strong>: How collaboration fosters innovation. <img src="images/ki-ds.png" class="logo"></li>
+</ul>
+</section>
+<section id="resources-and-support" class="slide level2">
+<h2>Resources and Support</h2>
+<ul>
+<li><strong>Summary</strong>: Key points discussed. <img src="images/ki-ds.png" class="logo"></li>
+</ul>
+</section>
+<section id="challanges-and-risk-management" class="slide level2">
+<h2>Challanges and Risk Management</h2>
+<ul>
+<li><strong>Many challanges wow</strong> <img src="images/ki-ds.png" class="logo"></li>
+</ul>
+</section>
+<section id="discussion-and-feedback" class="slide level2">
+<h2>Discussion and Feedback</h2>
+<ul>
+<li><strong>So much feedback!</strong> <img src="images/ki-ds.png" class="logo"></li>
+</ul>
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
-
+<p>Jacob Widaeus - Karolinska Institute, Department of clinical sciences, Danderyd Hospital</p>
 </div>
 </div>
 </section></section>
@@ -620,18 +626,7 @@
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -663,7 +658,29 @@
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -671,7 +688,7 @@
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {

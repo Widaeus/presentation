@@ -2,41 +2,49 @@
 format:
   revealjs:
     css: index.css
+    footer: "Jacob Widaeus - Karolinska Institute, Department of clinical sciences, Danderyd Hospital"
 ---
-# Presentation
+# Individual study plan
+**Bedside assessment of microvascular dysfunction**
+
+method evaluation in clinical studies
 <img src="images/ki-ds.png" class="logo" style="width: 350px; height: auto;">
 
-## Slide 1: Introduction
-
-- **Welcome**: Introduction to the topic and objectives of the presentation.
-- **Agenda**: Outline of the topics to be discussed.
+## Disposition
+- **Introduction and Background**: Introduction to the topic, research objectives and hypothesis
+- **Research plan and Methodology**: Study designs, methods and analysis approach.
+- **Timeline and Milestones**: Project timeline with key milestones and expected completion dates for each phase.
+- **Resources and Support**: Overview of necessary resoruces, required support, and collaborations.
+- **Discussion and Feedback**: Opporunity for audience questions, input, and feedback.
 <img src="images/ki-ds.png" class="logo">
 
-## Slide 2: Background
+## Introduction and Background
 
 - **Innovation 1**: Description and impact.
-- **Innovation 2**: Description and impact.
+
 <img src="images/ki-ds.png" class="logo">
 
-## Slide 3: Hypothesis
+## Research plan and Methodology
 
 - **Case Study 1**: Key insights and outcomes.
-- **Case Study 2**: Key insights and outcomes.
 <img src="images/ki-ds.png" class="logo">
 
-## Slide 4: Methods
+## Timeline and Milestones
 
 - **Partnerships**: How collaboration fosters innovation.
-- **Future Projects**: Upcoming initiatives and expected impacts.
 <img src="images/ki-ds.png" class="logo">
 
-## Slide 5: Conclusion
+## Resources and Support
 
 - **Summary**: Key points discussed.
-- **Q&A**: Invite questions from the audience.
 <img src="images/ki-ds.png" class="logo">
----
 
-Note: The actual content needs to be filled in by referencing the material that you want to present, as Quarto does not extract content from `.potx` files. This example assumes manual input of content into the Quarto document.
+## Challanges and Risk Management
+
+- **Many challanges wow**
 <img src="images/ki-ds.png" class="logo">
----
+
+## Discussion and Feedback
+
+- **So much feedback!**
+<img src="images/ki-ds.png" class="logo">
