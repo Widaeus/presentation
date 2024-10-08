@@ -29,13 +29,16 @@ method evaluation in clinical studies
 
 ### Relevance
 
-Picture
+<img src="images/vascular-man.jpg" style="width:35%; display: block; margin: auto;">
 
+<img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
 ### Relevance
+
+<img src="images/vascular-man.jpg" style="width:17%; position: absolute; top: 1px; right: 1px;">
 
 <span style="font-size:25px;">**Key Areas**: Cardiovascular disease, diabetes, heart failure, sepsis</span>
 
