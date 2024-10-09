@@ -165,7 +165,7 @@ gantt
 #### Resources and Support
 
 - <span style="font-size:30px;">**Supervisor**: Sara Tehrani, MD, PhD, MICU specialist</span>
-- <span style="font-size:30px;">**Co-Supervisor**: Dr. Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
+- <span style="font-size:30px;">**Co-Supervisor**: Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
 
 <br>
 
