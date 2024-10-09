@@ -107,7 +107,20 @@ method evaluation in clinical studies
 
 #### Research plan and Methodology
 
-- **Case Study 1**: Key insights and outcomes.
+
+```{mermaid}
+%%{init: {'theme': 'default', 'themeVariables': { 'textColor': '#798189'}}}%%
+gantt
+    title Big Ol' Gantts
+    dateFormat  YYYY-MM-DD
+    section Section
+    Some Normal Tasks : done, a1, 2022-09-01, 15d
+    But Wait, There's More! : after a1, 20d
+    section And ANOTHER
+    Deary Me, It's Never Ending : crit, 2022-10-01, 20d
+    I Hate This Project : 2022-10-21, 14d
+```
+.
 <img src="images/ki-ds.png" class="logo">
 
 ---
