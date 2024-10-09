@@ -2,14 +2,15 @@
 format:
   revealjs:
     css: index.css
-    footer: "Jacob Widaeus - Karolinska Institute, Department of clinical sciences, Danderyd Hospital"
+    footer: "Jacob Widaeus - Karolinska Institute, Department of Clinical Sciences, Danderyd Hospital"
     incremental: false
     self-contained: true
 ---
 # Individual study plan
-**Bedside assessment of microvascular dysfunction**
+**Bedside assessment of Microvascular Dysfunction**
 
-method evaluation in clinical studies
+Method evaluation in clinical studies
+<br>
 <img src="images/ki-ds.png" class="logo" style="width: 400px; height: auto;">
 
 ## Disposition
@@ -19,9 +20,10 @@ method evaluation in clinical studies
 
 - <span style="font-size:30px;">**Timeline and Milestones**: Project timeline with key milestones</span>
 
-- <span style="font-size:30px;">**Resources and Support**: Overview of  resoruces and support</span>
+- <span style="font-size:30px;">**Resources and Support**: Overview of resources and support</span>
 
-- <span style="font-size:30px;">**Discussion and Feedback**: Opporunity for audience feedback</span>
+- <span style="font-size:30px;">**Discussion and Feedback**: Opportunity for audience feedback</span>
+<br>
 <img src="images/ki-ds.png" class="logo">
 
 ---
@@ -49,7 +51,7 @@ method evaluation in clinical studies
   
 <span class="fragment" data-fragment-index="3" style="font-size:20px;">**Disease Progression and Treatment Monitoring**: Microvascular assessment provides a window into disease activity, aiding in the evaluation of treatment effectiveness.</span>
   
-<span class="fragment" data-fragment-index="4" style="font-size:20px;">**Goal-directed therapy**: Insights into microvascular health support goal-directed therapies, optimizing treatment plans tailored to individual needs.</span>
+<span class="fragment" data-fragment-index="4" style="font-size:20px;">**Goal-Directed Therapy**: Insights into microvascular health support goal-directed therapies, optimizing treatment plans tailored to individual needs.</span>
 <img src="images/ki-ds.png" class="logo">
 
 ---
@@ -106,9 +108,19 @@ method evaluation in clinical studies
 
 ---
 
-#### Research plan and Methodology
+#### Research Plan and Methodology
 
-.
+- <span style="font-size:30px;">**The CapriS Study, Capillary Dysfunction in Sepsis**</span>
+  - <span style="font-size:25px;">Patients with severe sepsis or septic shock</span>
+    - <span style="font-size:20px;">Rapid microvascular decompensation</span>
+
+- <span style="font-size:30px;">**The MIND Study, Microangiopathy in Diabetes**</span>
+  - <span style="font-size:25px;">Patients with type 1 diabetes, with and without clinical microangiopathy</span>
+    - <span style="font-size:20px;">Chronic microvascular deterioration</span>
+
+- <span style="font-size:30px;">**SCAPIS2Spectrum, Microcirculation Substudy**</span>
+  - <span style="font-size:25px;">Patients with high risk of cardiac microangiopathy</span>
+    - <span style="font-size:20px;">Microangiopathy in different populations</span>
 <img src="images/ki-ds.png" class="logo">
 
 ---
@@ -131,20 +143,20 @@ gantt
         Endothelial Cell Function[...]              :active               2026-02, 2026-03
         Intermediate Medical Statistics             :active               2026-03, 2026-04
         Cellular Signalling                         :active               2026-04, 2026-05
-    section Clinical studies
-        Microangiopathy IN Diabetes(MIND)           :active               2024-01, 2026-01
-        Capillary dysfunction in Sepsis(CapriS)     :active               2024-01, 2027-01
-        SCAPIS2Spectrum - Microcirculation substudy :active               2024-06, 2029-01
-    section Journal clubs
-        IMA-journal clubs                           :active               2024-06, 2029-01
+    section Studies
+        Microangiopathy IN Diabetes(MIND)           :active               2024-01, 2027-06
+        Capillary dysfunction in Sepsis(CapriS)     :active               2024-01, 2028-06
+        SCAPIS2Spectrum - Microcirculation substudy :active               2024-03, 2029-01
     section Conferences
         European Society on Microcirculation        :active, milestone    2025-05, 2025-06
         ISICEM                                      :active, milestone    2026-03, 2026-04
         European Society on Microcirculation        :active, milestone    2027-04, 2027-05
-    section Significant Milestones
+    section Journal clubs
+        IMA-Journal Clubs                           :active, crit,        2024-08, 2029-05
+    section Milestones
         Start date                                  :milestone,           2024-08, 2024-08
-        Half Time Control                           :milestone,           2026-08, 2026-08
-        Dissertation Defence                        :milestone, crit,     2029-05, 2029-05
+        Half-Time Control                           :milestone,           2026-08, 2026-08
+        Dissertation Defense                        :milestone, crit,     2029-05, 2029-05
 ```
 <img src="images/ki-ds.png" class="logo">
 
@@ -152,21 +164,37 @@ gantt
 
 #### Resources and Support
 
-- **Summary**: Key points discussed.
+- <span style="font-size:30px;">**Supervisor**: Sara Tehrani, MD, PhD, MICU specialist</span>
+- <span style="font-size:30px;">**Co-Supervisor**: Dr. Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
+
+<br>
+
+- <span style="font-size:25px;">**Courses and Education**</span>
+
+- <span style="font-size:25px;">**KFC-Statistician**</span>
+
+- <span style="font-size:25px;">**Research seminars**</span>
 <img src="images/ki-ds.png" class="logo">
 
 ---
 
 #### Challanges and Risk Management
 
-- **Many challanges wow**
+- <span style="font-size:30px;">**Large Scale Studies**</span>
+  - <span style="font-size:25px;">Participant Scheduling</span>
+    - <span style="font-size:20px;">Automatic scheduling system</span>
+  - <span style="font-size:25px;">Data Collection</span>
+    - <span style="font-size:20px;">Partially automatic data collection and integrity system</span>
+- <span style="font-size:30px;">**Data Analysis Phase**</span>
+  - <span style="font-size:25px;">Well-defined analytic aims</span>
+  - <span style="font-size:25px;">Specific courses</span>
 <img src="images/ki-ds.png" class="logo">
 
 ---
 
 #### Discussion and Feedback
 
-- **So much feedback!**
+<br>
 <img src="images/ki-ds.png" class="logo">
 
 ----
