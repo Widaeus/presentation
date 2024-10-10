@@ -23,7 +23,9 @@ Method evaluation in clinical studies
 - <span style="font-size:30px;">**Resources and Support**: Overview of resources and support</span>
 
 - <span style="font-size:30px;">**Discussion and Feedback**: Opportunity for audience feedback</span>
-<br>
+<div style="text-align: center;">
+  <img src="images/qrcode.png" style="width: 250px;">
+</div>
 <img src="images/ki-ds.png" class="logo">
 
 ---
