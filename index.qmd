@@ -130,31 +130,49 @@ Method evaluation in clinical studies
 #### Timeline and Milestones
 
 ```{mermaid}
+---
+displayMode: compact
+---
+gantt
+    tickInterval 1year
+    dateFormat YYYY-MM
+    section Studies
+        Microangiopathy IN Diabetes(MIND)           :             2024-01, 2027-06
+        Capillary dysfunction in Sepsis(CapriS)     :             2024-01, 2028-06
+        SCAPIS2Spectrum - Microcirculation substudy :             2024-03, 2029-01
+    section Conferences
+        European Society on Microcirculation        :milestone    2025-05, 2025-06
+        ISICEM                                      :milestone    2026-03, 2026-04
+        European Society on Microcirculation        :milestone    2027-04, 2027-05
+    section Journal clubs
+        IMA-Journal Clubs                           :             2024-08, 2029-05
+    section Milestones
+        Start date                                  :milestone,           2024-08, 2024-08
+        Half-Time Control                           :milestone,           2026-08, 2026-08
+        Dissertation Defense                        :milestone, crit,     2029-05, 2029-05
+```
+<img src="images/ki-ds.png" class="logo">
+---
+
+#### Timeline and Milestones
+
+```{mermaid}
 gantt
     dateFormat YYYY-MM
     section Mandatory courses
-        Medical Research Ethics                     :active               2025-01, 2025-02
-        Basic Laboratory Safety                     :active               2025-01, 2025-02
-        Introduction to Doctoral Education at KI    :active               2025-01, 2025-02
-        Basic Course in Medical Statistics          :active               2025-02, 2025-03
-        Present your Research!                      :active               2025-08, 2025-09
-        Quality Assurance of Clinical Research      :active               2025-09, 2025-10
+        Introduction to Doctoral Education at KI    :             2024-10, 2024-12
+        Basic Laboratory Safety                     :             2024-12, 2025-01
+        Medical Research Ethics                     :             2025-01, 2025-02
+        Introductory course in clinical studies     :             2025-02, 2025-03
+        Basic Course in Medical Statistics          :             2025-03, 2025-04
+        Present your Research!                      :             2025-10, 2025-11
+        Quality Assurance of Clinical Research      :             2025-10, 2025-11
     section Project specific courses
-        Statistical Methods with R                  :active               2024-09, 2024-12
-        Programing in Python                        :active               2024-08, 2024-11
-        Endothelial Cell Function[...]              :active               2026-02, 2026-03
-        Intermediate Medical Statistics             :active               2026-03, 2026-04
-        Cellular Signalling                         :active               2026-04, 2026-05
-    section Studies
-        Microangiopathy IN Diabetes(MIND)           :active               2024-01, 2027-06
-        Capillary dysfunction in Sepsis(CapriS)     :active               2024-01, 2028-06
-        SCAPIS2Spectrum - Microcirculation substudy :active               2024-03, 2029-01
-    section Conferences
-        European Society on Microcirculation        :active, milestone    2025-05, 2025-06
-        ISICEM                                      :active, milestone    2026-03, 2026-04
-        European Society on Microcirculation        :active, milestone    2027-04, 2027-05
-    section Journal clubs
-        IMA-Journal Clubs                           :active, crit,        2024-08, 2029-05
+        Statistical Methods with R                  :             2024-09, 2024-12
+        Programing in Python                        :             2024-08, 2024-11
+        Endothelial Cell Function[...]              :             2026-02, 2026-03
+        Intermediate Medical Statistics             :             2026-03, 2026-04
+        Cellular Signalling                         :             2026-04, 2026-05
     section Milestones
         Start date                                  :milestone,           2024-08, 2024-08
         Half-Time Control                           :milestone,           2026-08, 2026-08
