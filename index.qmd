@@ -1,6 +1,7 @@
 ---
 format:
   revealjs:
+    html: true
     css: index.css
     footer: "Jacob Widaeus - Karolinska Institute, Department of Clinical Sciences, Danderyd Hospital"
     incremental: false
@@ -8,106 +9,118 @@ format:
 ---
 # Individual study plan
 **Bedside assessment of Microvascular Dysfunction**
-
 Method evaluation in clinical studies
 <br>
-<img src="images/ki-ds.png" class="logo" style="width: 400px; height: auto;">
+<img src="images/ki-ds.png" class="logo">
+---
 
 ## Disposition
 - <span style="font-size:30px;">**Introduction and Background**: Introduction to the topic, research objectives</span>
-
 - <span style="font-size:30px;">**Research plan and Methodology**: Study designs, methods and analysis</span>
-
 - <span style="font-size:30px;">**Timeline and Milestones**: Project timeline with key milestones</span>
-
+- <span style="font-size:30px;">**Education**: Courses, journal clubs, conferences</span>
+- <span style="font-size:30px;">**Degree outcomes**</span>
 - <span style="font-size:30px;">**Resources and Support**: Overview of resources and support</span>
-
-- <span style="font-size:30px;">**Discussion and Feedback**: Opportunity for audience feedback</span>
 <div style="text-align: center;">
-  <img src="images/qrcode.png" style="width: 250px;">
+  <img src="images/qrcode.png" style="width: 200px;">
 </div>
+<br>
 <img src="images/ki-ds.png" class="logo">
-
 ---
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
 ### Relevance
-
 <img src="images/vascular-man.jpg" style="width:35%; display: block; margin: auto;">
-
+<br>
 <img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
 ### Relevance
-
 <img src="images/vascular-man.jpg" style="width:17%; position: absolute; top: 1px; right: 1px;">
-
 <span style="font-size:25px;">**Key Areas**: Cardiovascular disease, diabetes, heart failure, sepsis</span>
 
 <span class="fragment" data-fragment-index="1" style="font-size:25px;">Clinical Implications</span>
-  
-<span class="fragment" data-fragment-index="2" style="font-size:20px;">**Early Detection and Prevention**: Monitoring microvascular function helps identify patients at high risk, enabling early intervention and preventive measures.</span>
-  
-<span class="fragment" data-fragment-index="3" style="font-size:20px;">**Disease Progression and Treatment Monitoring**: Microvascular assessment provides a window into disease activity, aiding in the evaluation of treatment effectiveness.</span>
-  
-<span class="fragment" data-fragment-index="4" style="font-size:20px;">**Goal-Directed Therapy**: Insights into microvascular health support goal-directed therapies, optimizing treatment plans tailored to individual needs.</span>
-<img src="images/ki-ds.png" class="logo">
 
+<span class="fragment" data-fragment-index="2" style="font-size:20px;">**Early Detection and Prevention**: Monitoring microvascular function helps identify patients at high risk, enabling early intervention and preventive measures.</span>
+
+<span class="fragment" data-fragment-index="3" style="font-size:20px;">**Disease Progression and Treatment Monitoring**: Microvascular assessment provides a window into disease activity, aiding in the evaluation of treatment effectiveness.</span>
+
+<span class="fragment" data-fragment-index="4" style="font-size:20px;">**Goal-Directed Therapy**: Insights into microvascular health support goal-directed therapies, optimizing treatment plans tailored to individual needs.</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
 ### Problem
-
-<div style="margin-bottom: 40px;"></div>
+<div style="margin-bottom: 30px;"></div>
 
 <span style="font-size:25px;">**Current methods**</span>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Capillary refill time</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Subjectivity, variability, sens/spec, non-quantifiable*</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Capillary refill time</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Subjectivity, variability, sens/spec, non-quantifiable*</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Coronary angiography</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Invasive, cumbersome, resource intensive, organ specific</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Coronary angiography</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Invasive, cumbersome, resource intensive, organ specific</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Stress Cardiac MRT</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Cumbersome, resource intensive, organ specific</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Stress Cardiac MRT</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Cumbersome, resource intensive, organ specific</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Biomarkers</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Analysis time, interpretation, resource intensive</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Biomarkers</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Analysis time, interpretation, resource intensive</div>
+</div>
+<br>
 <img src="images/ki-ds.png" class="logo">
-
 ---
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
 ### Problem
-
-<div style="margin-bottom: 40px;"></div>
+<div style="margin-bottom: 30px;"></div>
 
 <span style="font-size:25px;">**Future methods - what is needed?**</span>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Quantitative</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Precision and comparison</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Quantitative</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Precision and comparison</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Non-invasive</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Risk and discomfort</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Non-invasive</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Risk and discomfort</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Low variability and High sensitivity</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Consistency and precision</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Low variability and High sensitivity</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Consistency and precision</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Rapid and ease of use</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Clinical convenience</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Rapid and ease of use</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Clinical convenience</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Organ-agnostic</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Systemic dysfunction</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Organ-agnostic</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Systemic dysfunction</div>
+</div>
 
-<span class="fragment" data-fragment-index="1" style="display:inline-block; width:400px; font-size:25px; white-space: nowrap;">Cost-effective</span>
-<span class="fragment" data-fragment-index="2" style="font-size:25px;">Iterative usage and goal-directed</span>
+<div style="display: flex; margin-bottom: 40px;">
+  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Cost-effective</div>
+  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Iterative usage and goal-directed</div>
+</div>
+<br>
 <img src="images/ki-ds.png" class="logo">
-
 ---
 
 #### Research Plan and Methodology
@@ -115,20 +128,56 @@ Method evaluation in clinical studies
 - <span style="font-size:30px;">**The CapriS Study, Capillary Dysfunction in Sepsis**</span>
   - <span style="font-size:25px;">Patients with severe sepsis or septic shock</span>
     - <span style="font-size:20px;">Rapid microvascular decompensation</span>
-
 - <span style="font-size:30px;">**The MIND Study, Microangiopathy in Diabetes**</span>
   - <span style="font-size:25px;">Patients with type 1 diabetes, with and without clinical microangiopathy</span>
     - <span style="font-size:20px;">Chronic microvascular deterioration</span>
-
 - <span style="font-size:30px;">**SCAPIS2Spectrum, Microcirculation Substudy**</span>
   - <span style="font-size:25px;">Patients with high risk of cardiac microangiopathy</span>
     - <span style="font-size:20px;">Microangiopathy in different populations</span>
+<br>
 <img src="images/ki-ds.png" class="logo">
+---
 
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### CapriS, Capillary Dysfunction in Sepsis
+<span style="font-size: 20px;">60 patients, &gt;18 yrs with confirmed/suspected infection at ICU/IMCU &lt;12hrs and SBP &lt;90mmHg despite 10 mL/kg cristalloid.</span>
+<span style="font-size: 20px;">Laser speckle contrast imaging, with iontophoresis. Biomarkers. Echocardiography at set intervals.</span>
+<div style="text-align: center;">
+  <img src="images/capris_studyprotocol.png" style="width: 60%;">
+</div>
+<span style="font-size: 20px;">30 healthy controls.</span>
+<br>
+<span style="font-size: 20px;">Primary outcome: peak capillary blood cell velocity (pCVB, mm/s)</span>
+<br>
+<span style="font-size: 20px;">Secondary outcomes: Severity of condition, macrocirculatory parameters, biomarkers.</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### MIND, Microangiopathy in Diabetes
+- Patient
+- Intervention
+- Comparison
+- Outcome
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### SCAPIS2Spectrum, Microcirculation Substudy
+- Patient
+- Intervention
+- Comparison
+- Outcome
+<br>
+<img src="images/ki-ds.png" class="logo">
 ---
 
 #### Timeline and Milestones
-
 ```{mermaid}
 ---
 displayMode: compact
@@ -151,11 +200,11 @@ gantt
         Half-Time Control                           :milestone,           2026-08, 2026-08
         Dissertation Defense                        :milestone, crit,     2029-05, 2029-05
 ```
+<br>
 <img src="images/ki-ds.png" class="logo">
 ---
 
 #### Timeline and Milestones
-
 ```{mermaid}
 gantt
     dateFormat YYYY-MM
@@ -178,24 +227,28 @@ gantt
         Half-Time Control                           :milestone,           2026-08, 2026-08
         Dissertation Defense                        :milestone, crit,     2029-05, 2029-05
 ```
+<br>
 <img src="images/ki-ds.png" class="logo">
-
 ---
 
-#### Resources and Support
-
-- <span style="font-size:30px;">**Supervisor**: Sara Tehrani, MD, PhD, MICU specialist</span>
-- <span style="font-size:30px;">**Co-Supervisor**: Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
-
+#### Education
+- All courses listed here, 20 hp wow
 <br>
-
-- <span style="font-size:25px;">**Courses and Education**</span>
-
-- <span style="font-size:25px;">**KFC-Statistician**</span>
-
-- <span style="font-size:25px;">**Research seminars**</span>
 <img src="images/ki-ds.png" class="logo">
+---
 
+<span style="font-size: 20px;">Education</span>
+
+#### Journal clubs and conferences
+- wow so many journal clubs
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+#### Degree outcomes
+- So many outcomes!
+<br>
+<img src="images/ki-ds.png" class="logo">
 ---
 
 #### Challanges and Risk Management
@@ -205,16 +258,24 @@ gantt
     - <span style="font-size:20px;">Automatic scheduling system</span>
   - <span style="font-size:25px;">Data Collection</span>
     - <span style="font-size:20px;">Partially automatic data collection and integrity system</span>
+
 - <span style="font-size:30px;">**Data Analysis Phase**</span>
   - <span style="font-size:25px;">Well-defined analytic aims</span>
   - <span style="font-size:25px;">Specific courses</span>
+<br>
 <img src="images/ki-ds.png" class="logo">
+---
 
+#### Resources and Support
+
+- <span style="font-size:30px;">**Supervisor**: Sara Tehrani, MD, PhD, MICU specialist</span>
+- <span style="font-size:30px;">**Co-Supervisor**: Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
 ---
 
 #### Discussion and Feedback
 
 <br>
 <img src="images/ki-ds.png" class="logo">
-
-----
+---
