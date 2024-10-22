@@ -9,12 +9,13 @@ format:
 ---
 # Individual study plan
 **Bedside assessment of Microvascular Dysfunction**
+<br>
 Method evaluation in clinical studies
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
 
-## Disposition
+#### Disposition
 - <span style="font-size:30px;">**Introduction and Background**: Introduction to the topic, research objectives</span>
 - <span style="font-size:30px;">**Research plan and Methodology**: Study designs, methods and analysis</span>
 - <span style="font-size:30px;">**Timeline and Milestones**: Project timeline with key milestones</span>
@@ -30,7 +31,7 @@ Method evaluation in clinical studies
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
-### Relevance
+#### Relevance
 <img src="images/vascular-man.jpg" style="width:35%; display: block; margin: auto;">
 <br>
 <img src="images/ki-ds.png" class="logo">
@@ -38,7 +39,7 @@ Method evaluation in clinical studies
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
-### Relevance
+#### Relevance
 <img src="images/vascular-man.jpg" style="width:17%; position: absolute; top: 1px; right: 1px;">
 <span style="font-size:25px;">**Key Areas**: Cardiovascular disease, diabetes, heart failure, sepsis</span>
 
@@ -55,7 +56,7 @@ Method evaluation in clinical studies
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
-### Problem
+#### Problem
 <div style="margin-bottom: 30px;"></div>
 
 <span style="font-size:25px;">**Current methods**</span>
@@ -85,7 +86,7 @@ Method evaluation in clinical studies
 
 <span style="font-size: 20px;">Introduction and Background</span>
 
-### Problem
+#### Problem
 <div style="margin-bottom: 30px;"></div>
 
 <span style="font-size:25px;">**Future methods - what is needed?**</span>
@@ -139,40 +140,75 @@ Method evaluation in clinical studies
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
+<br>
+Picture of LSCI
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+<br>
+Picture of curves
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### CapriS, Capillary Dysfunction in Sepsis
-<span style="font-size: 20px;">60 patients, &gt;18 yrs with confirmed/suspected infection at ICU/IMCU &lt;12hrs and SBP &lt;90mmHg despite 10 mL/kg cristalloid.</span>
-<span style="font-size: 20px;">Laser speckle contrast imaging, with iontophoresis. Biomarkers. Echocardiography at set intervals.</span>
+<span style="font-size: 19px;">**Population:** 60 patients, &gt;18 yrs with confirmed/suspected infection at ICU/IMCU &lt;12hrs and SBP &lt;90mmHg despite 10 mL/kg cristalloid.</span>
+<div style="margin-bottom: 1px;"></div>
+<span style="font-size: 19px;">**Intevention:** Laser speckle contrast imaging, with iontophoresis. Biomarkers. Echocardiography at set intervals.</span>
 <div style="text-align: center;">
   <img src="images/capris_studyprotocol.png" style="width: 60%;">
 </div>
-<span style="font-size: 20px;">30 healthy controls.</span>
-<br>
-<span style="font-size: 20px;">Primary outcome: peak capillary blood cell velocity (pCVB, mm/s)</span>
-<br>
-<span style="font-size: 20px;">Secondary outcomes: Severity of condition, macrocirculatory parameters, biomarkers.</span>
-<br>
-<img src="images/ki-ds.png" class="logo">
+<span style="font-size: 19px;">**Comparison:** 30 healthy controls.</span>
+<div style="margin-bottom: 1px;"></div>
+<span style="font-size: 19px;">**Outcomes:** *Primary outcome:* peak capillary blood cell velocity (pCVB, mm/s). *Secondary outcomes:* Severity of condition, macrocirculatory parameters, biomarkers.</span>
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### MIND, Microangiopathy in Diabetes
-- Patient
-- Intervention
-- Comparison
-- Outcome
+<span style="font-size: 20px;">**Population:** Patients with DM1 at diabetes outpatient clinic at Danderyd Hospital.</span>
 <br>
-<img src="images/ki-ds.png" class="logo">
+<span style="font-size: 20px;">*Pilot:* 20 healthy controls.</span>
+<br>
+<span style="font-size: 20px;">*Phase 1:* 50 patients with severe DM1 complications and 50 healthy controls.</span>
+<br>
+<span style="font-size: 20px;">*Phase 2:* 100 patients with no microangiopathy, 100 patients with mild microangiopathy, 50 with moderate microangiopathy, as classified by microangiopathy score <a href="https://journals.sagepub.com/doi/full/10.1177/1479164120928303">[1]</a>.</span>
+<br>
+<span style="font-size: 20px;">**Intervention:** LSCI, blood tests and charts.</span>
+<br>
+<span style="font-size: 20px;">**Controls:** Healthy controls in each cohort.</span>
+<br>
+<span style="font-size: 20px;">**Outcomes:** Thermal regulation, flow regulation</span>
+<br>
+  <img src="images/ki-ds.png" class="logo">
+<br>
+<span style="font-size: 20px;">[1]: <a href="https://doi.org/10.1177/1479164120928303">10.1177/1479164120928303</a></span>
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### SCAPIS2Spectrum, Microcirculation Substudy
-- Patient
-- Intervention
-- Comparison
-- Outcome
+<span style="font-size: 20px;">**Population:** Substudy to SCAPIS2. 900 in total to be included in 5 arms; O-CAD, ANOCA, HFpEF, HFrEF and diabetes, including corresponding controls from SCAPIS2 cohort.</span>
+<br>
+<br>
+<span style="font-size: 20px;">**Intervention:** LSCI, biomarkers, and adenosine stress cardiac MRI.</span>
+<br>
+<br>
+<span style="font-size: 20px;">**Comparison:** Healthy controls</span>
+<br>
+<br>
+<span style="font-size: 20px;">**Outcome:** *Primary outcomes:* Flowmotion analysis, post-occlusion hyperemeia, thermal provocations. *Secondary outcomes:* Biomarkers</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<div style="text-align: center;">
+  <img src="images/scapis2_inclusion.png" style="width: 56%;">
+</div>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
