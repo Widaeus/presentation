@@ -5,12 +5,15 @@ format:
     css: index.css
     footer: "Jacob Widaeus - Karolinska Institute, Department of Clinical Sciences, Danderyd Hospital"
     incremental: false
-    self-contained: true
 ---
 # Individual study plan
 **Bedside assessment of Microvascular Dysfunction**
 <br>
 Method evaluation in clinical studies
+<div style="margin-top: 120px;"></div>
+<span style="font-size:20px;">**Supervisor**: Sara Tehrani, MD, PhD, MICU specialist</span>
+<br>
+<span style="font-size:20px;">**Co-Supervisor**: Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -18,8 +21,8 @@ Method evaluation in clinical studies
 #### Disposition
 - <span style="font-size:30px;">**Introduction and Background**: Introduction to the topic, research objectives</span>
 - <span style="font-size:30px;">**Research plan and Methodology**: Study designs, methods and analysis</span>
-- <span style="font-size:30px;">**Timeline and Milestones**: Project timeline with key milestones</span>
 - <span style="font-size:30px;">**Education**: Courses, journal clubs, conferences</span>
+- <span style="font-size:30px;">**Timeline and Milestones**: Project timeline with key milestones</span>
 - <span style="font-size:30px;">**Degree outcomes**</span>
 - <span style="font-size:30px;">**Resources and Support**: Overview of resources and support</span>
 <div style="text-align: center;">
@@ -61,25 +64,23 @@ Method evaluation in clinical studies
 
 <span style="font-size:25px;">**Current methods**</span>
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Capillary refill time</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Subjectivity, variability, sens/spec, non-quantifiable*</div>
-</div>
+:::: {.columns}
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Coronary angiography</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Invasive, cumbersome, resource intensive, organ specific</div>
-</div>
+::: {.column width="35%"}
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 40px;">Capillary refill time</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 40px;">Stress Cardiac MRT</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 40px;">Coronary angiography</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 40px;">Biomarkers</div>
+:::
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Stress Cardiac MRT</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Cumbersome, resource intensive, organ specific</div>
-</div>
+::: {.column width="65%"}
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 40px;">Subjectivity, variability, sens/spec, non-quantifiable</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 40px;">Cumbersome, resource intensive, organ specific</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 40px;">Invasive, cumbersome, resource intensive, organ specific</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 40px;">Analysis time, interpretation, resource intensive</div>
+:::
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 250px; font-size:25px;">Biomarkers</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Analysis time, interpretation, resource intensive</div>
-</div>
+::::
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -91,50 +92,28 @@ Method evaluation in clinical studies
 
 <span style="font-size:25px;">**Future methods - what is needed?**</span>
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Quantitative</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Precision and comparison</div>
-</div>
+:::: {.columns}
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Non-invasive</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Risk and discomfort</div>
-</div>
+::: {.column width="40%"}
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 35px;">Quantitative</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 35px;">Non-invasive</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 35px;">Low variability and High sensitivity</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 35px;">Rapid and ease of use</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 35px;">Organ-agnostic</div>
+<div class="fragment" data-fragment-index="1" style="font-size:25px; margin-bottom: 35px;">Cost-effective</div>
+:::
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Low variability and High sensitivity</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Consistency and precision</div>
-</div>
+::: {.column width="60%"}
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 35px;">Precision and comparison</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 35px;">Risk and discomfort</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 35px;">Consistency and precision</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 35px;">Clinical convenience</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 35px;">Systemic dysfunction</div>
+<div class="fragment" data-fragment-index="2" style="font-size:25px; padding-left: 20px; margin-bottom: 35px;">Iterative usage and goal-directed</div>
+:::
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Rapid and ease of use</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Clinical convenience</div>
-</div>
+::::
 
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Organ-agnostic</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Systemic dysfunction</div>
-</div>
-
-<div style="display: flex; margin-bottom: 40px;">
-  <div class="fragment" data-fragment-index="1" style="min-width: 400px; font-size:25px; white-space: nowrap;">Cost-effective</div>
-  <div class="fragment" data-fragment-index="2" style="flex-grow: 1; font-size:25px; padding-left: 60px;">Iterative usage and goal-directed</div>
-</div>
-<br>
-<img src="images/ki-ds.png" class="logo">
----
-
-#### Research Plan and Methodology
-
-- <span style="font-size:30px;">**The CapriS Study, Capillary Dysfunction in Sepsis**</span>
-  - <span style="font-size:25px;">Patients with severe sepsis or septic shock</span>
-    - <span style="font-size:20px;">Rapid microvascular decompensation</span>
-- <span style="font-size:30px;">**The MIND Study, Microangiopathy in Diabetes**</span>
-  - <span style="font-size:25px;">Patients with type 1 diabetes, with and without clinical microangiopathy</span>
-    - <span style="font-size:20px;">Chronic microvascular deterioration</span>
-- <span style="font-size:30px;">**SCAPIS2Spectrum, Microcirculation Substudy**</span>
-  - <span style="font-size:25px;">Patients with high risk of cardiac microangiopathy</span>
-    - <span style="font-size:20px;">Microangiopathy in different populations</span>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -149,6 +128,23 @@ Picture of LSCI
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 <br>
 Picture of curves
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+#### Research Plan and Methodology
+
+- <span style="font-size:30px;">**The CapriS Study, Capillary Dysfunction in Sepsis**</span>
+  - <span style="font-size:25px;">Patients with severe sepsis or septic shock</span>
+  - <span style="font-size:20px;">Rapid microvascular decompensation</span>
+
+- <span style="font-size:30px;">**The MIND Study, Microangiopathy in Diabetes**</span>
+  - <span style="font-size:25px;">Patients with type 1 diabetes, with and without clinical microangiopathy</span>
+  - <span style="font-size:20px;">Chronic microvascular deterioration</span>
+
+- <span style="font-size:30px;">**SCAPIS2Spectrum, Microcirculation Substudy**</span>
+  - <span style="font-size:25px;">Patients with high risk of cardiac microangiopathy</span>
+  - <span style="font-size:20px;">Microangiopathy in different populations</span>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -192,7 +188,7 @@ Picture of curves
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### SCAPIS2Spectrum, Microcirculation Substudy
-<span style="font-size: 20px;">**Population:** Substudy to SCAPIS2. 900 in total to be included in 5 arms; O-CAD, ANOCA, HFpEF, HFrEF and diabetes, including corresponding controls from SCAPIS2 cohort.</span>
+<span style="font-size: 20px;">**Population:** Substudy to SCAPIS2. 900 in total to be included in 5 arms; O-CAD, ANOCA, HFpEF, HFrEF and diabetes, including corresponding healthy controls from SCAPIS2 cohort.</span>
 <br>
 <br>
 <span style="font-size: 20px;">**Intervention:** LSCI, biomarkers, and adenosine stress cardiac MRI.</span>
@@ -213,62 +209,84 @@ Picture of curves
 <img src="images/ki-ds.png" class="logo">
 ---
 
-#### Timeline and Milestones
-```{mermaid}
----
-displayMode: compact
----
-gantt
-    tickInterval 1year
-    dateFormat YYYY-MM
-    section Studies
-        Microangiopathy IN Diabetes(MIND)           :             2024-01, 2027-06
-        Capillary dysfunction in Sepsis(CapriS)     :             2024-01, 2028-06
-        SCAPIS2Spectrum - Microcirculation substudy :             2024-03, 2029-01
-    section Conferences
-        European Society on Microcirculation        :milestone    2025-05, 2025-06
-        ISICEM                                      :milestone    2026-03, 2026-04
-        European Society on Microcirculation        :milestone    2027-04, 2027-05
-    section Journal clubs
-        IMA-Journal Clubs                           :             2024-08, 2029-05
-    section Milestones
-        Start date                                  :milestone,           2024-08, 2024-08
-        Half-Time Control                           :milestone,           2026-08, 2026-08
-        Dissertation Defense                        :milestone, crit,     2029-05, 2029-05
-```
+<span style="font-size: 20px;">Education</span>
+
+#### Mandatory courses
+:::: {.columns}
+::: {.column width="50%"}
+<br>
+<span style="font-size:20px;"><br>Introduction to Doctoral Education at KI</span>
+<span style="font-size:20px;"><br>Basic Laboratory Safety</span>
+<span style="font-size:20px;"><br>Medical Research Ethics</span>
+<span style="font-size:20px;"><br>Basic Course in Medical Statistics</span>
+<span style="font-size:20px;"><br>Present your Research!</span>
+<span style="font-size:20px;"><br>Quality Assurance of Clinical Research</span>
+:::
+
+::: {.column width="20%"}
+<span style="font-size:20px;"><br>Completion date</span>
+<span style="font-size:20px;"><br>2024-12</span>
+<span style="font-size:20px;"><br>2025-01</span>
+<span style="font-size:20px;"><br>2025-02</span>
+<span style="font-size:20px;"><br>2025-03</span>
+<span style="font-size:20px;"><br>2025-11</span>
+<span style="font-size:20px;"><br>2025-11</span>
+<span style="font-size:20px;"><br>**sum**</span>
+:::
+
+::: {.column width="10%"}
+<br>
+<span style="font-size:20px;"><br>1 hp</span>
+<span style="font-size:20px;"><br>1,8 hp</span>
+<span style="font-size:20px;"><br>1,5 hp</span>
+<span style="font-size:20px;"><br>3 hp</span>
+<span style="font-size:20px;"><br>1,5 hp</span>
+<span style="font-size:20px;"><br>1,5 hp</span>
+<span style="font-size:20px;"><br>**10,3 hp**</span>
+:::
+
+:::: 
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
 
-#### Timeline and Milestones
-```{mermaid}
-gantt
-    dateFormat YYYY-MM
-    section Mandatory courses
-        Introduction to Doctoral Education at KI    :             2024-10, 2024-12
-        Basic Laboratory Safety                     :             2024-12, 2025-01
-        Medical Research Ethics                     :             2025-01, 2025-02
-        Introductory course in clinical studies     :             2025-02, 2025-03
-        Basic Course in Medical Statistics          :             2025-03, 2025-04
-        Present your Research!                      :             2025-10, 2025-11
-        Quality Assurance of Clinical Research      :             2025-10, 2025-11
-    section Project specific courses
-        Statistical Methods with R                  :             2024-09, 2024-12
-        Programing in Python                        :             2024-08, 2024-11
-        Endothelial Cell Function[...]              :             2026-02, 2026-03
-        Intermediate Medical Statistics             :             2026-03, 2026-04
-        Cellular Signalling                         :             2026-04, 2026-05
-    section Milestones
-        Start date                                  :milestone,           2024-08, 2024-08
-        Half-Time Control                           :milestone,           2026-08, 2026-08
-        Dissertation Defense                        :milestone, crit,     2029-05, 2029-05
-```
-<br>
-<img src="images/ki-ds.png" class="logo">
----
+<span style="font-size: 20px;">Education</span>
 
-#### Education
-- All courses listed here, 20 hp wow
+#### Project specific courses
+:::: {.columns}
+::: {.column width="50%"}
+<br>
+<span style="font-size:20px;"><br>Programming in Python</span>
+<span style="font-size:20px;"><br>Statistical Methods with R</span>
+<span style="font-size:20px;"><br>Introductory Course in Clinical Studies</span>
+<span style="font-size:20px;"><br>Endothelial Cell Function</span>
+<span style="font-size:20px;"><br>Intermediate Medical Statistics</span>
+<span style="font-size:20px;"><br>Cellular Signaling</span>
+:::
+
+::: {.column width="20%"}
+<span style="font-size:20px;"><br>Completion date</span>
+<span style="font-size:20px;"><br>2024-10</span>
+<span style="font-size:20px;"><br>2024-11</span>
+<span style="font-size:20px;"><br>2025-02</span>
+<span style="font-size:20px;"><br>2026-03</span>
+<span style="font-size:20px;"><br>2026-04</span>
+<span style="font-size:20px;"><br>2026-05</span>
+<span style="font-size:20px;"><br>**sum**</span>
+:::
+
+::: {.column width="10%"}
+<br>
+<span style="font-size:20px;"><br>7,5 hp</span>
+<span style="font-size:20px;"><br>7,5 hp</span>
+<span style="font-size:20px;"><br>1,5 hp</span>
+<span style="font-size:20px;"><br>1,5 hp</span>
+<span style="font-size:20px;"><br>3 hp</span>
+<span style="font-size:20px;"><br>1,5 hp</span>
+<span style="font-size:20px;"><br>**22,5 hp**</span>
+:::
+
+:::: 
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -276,13 +294,80 @@ gantt
 <span style="font-size: 20px;">Education</span>
 
 #### Journal clubs and conferences
-- wow so many journal clubs
+- <span style="font-size:20px;">**IMA journal club 6 times every term**</span>
+    - <span style="font-size:20px;">1,5hp per term, max 6 hp</span>
+
+- <span style="font-size:20px;">**Presentation at international conference**</span>
+    - <span style="font-size:20px;">3 planned conferences, among 1 of which planned presentation; 1,5hp</span>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
 
 #### Degree outcomes
-- So many outcomes!
+<span style="font-size:30px;">**9A - Knowledge and understanding**</span>
+
+  - <span style="font-size:20px;">Clinical work</span>
+  - <span style="font-size:20px;">Microvascular investigations and methodological evaluation</span>
+  - <span style="font-size:20px;">Design and completion of studies</span>
+
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+#### Degree outcomes
+
+<span style="font-size:30px;">**9B - Proficiency and ability**</span>
+
+  - <span style="font-size:20px;">Educational courses</span>
+  - <span style="font-size:20px;">Journal clubs</span>
+  - <span style="font-size:20px;">Planning and executing studies</span>
+  - <span style="font-size:20px;">Writing manuscripts and presenting research</span>
+
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+#### Degree outcomes
+<span style="font-size:30px;">**9C - Judgement and approach**</span>
+
+  - <span style="font-size:20px;">Educational courses in ethics and executing clinical studies</span>
+  - <span style="font-size:20px;">Independently solve complex problems while adhering to high standards of scientific practice</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+#### Timeline and Milestones
+```{mermaid}
+---
+displayMode: compact
+---
+gantt
+    axisFormat %Y-%m
+    dateFormat YYYY-MM
+    section CapriS
+        Inclusion(start 2021) :2023-01, 2025-06
+        Analysis              :2025-06, 2026-01
+        Writing & publication :2026-01, 2026-12
+    section MIND
+        Inclusion             :2023-06, 2026-01
+        Analysis              :2026-01, 2026-10
+        Writing & publication :2026-10, 2027-07
+    section SCAPIS2spectrum
+        Inclusion             :2024-06, 2026-06
+        Analysis              :2026-06, 2027-06
+        Writing & publication :2027-06, 2028-06
+    section Conferences
+        [...]Microcirculation                       :milestone    2025-05, 2025-06
+        ISICEM                                      :milestone    2026-03, 2026-04
+        European Society on Microcirculation        :milestone    2027-04, 2027-05
+    section Journal clubs
+        IMA-Journal Clubs                           :2024-08, 2029-05
+    section Milestones
+        Start date                                  :milestone,           2024-08, 2024-08
+        Half-Time Control                           :milestone,           2026-08, 2026-08
+        Dissertation Defense                        :milestone, crit,     2029-05, 2029-05
+```
+
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -290,10 +375,8 @@ gantt
 #### Challanges and Risk Management
 
 - <span style="font-size:30px;">**Large Scale Studies**</span>
-  - <span style="font-size:25px;">Participant Scheduling</span>
-    - <span style="font-size:20px;">Automatic scheduling system</span>
-  - <span style="font-size:25px;">Data Collection</span>
-    - <span style="font-size:20px;">Partially automatic data collection and integrity system</span>
+  - <span style="font-size:20px;">Automatic scheduling system</span>
+  - <span style="font-size:20px;">Partially automatic data collection and integrity system</span>
 
 - <span style="font-size:30px;">**Data Analysis Phase**</span>
   - <span style="font-size:25px;">Well-defined analytic aims</span>
@@ -304,9 +387,14 @@ gantt
 
 #### Resources and Support
 
-- <span style="font-size:30px;">**Supervisor**: Sara Tehrani, MD, PhD, MICU specialist</span>
-- <span style="font-size:30px;">**Co-Supervisor**: Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
-<br>
+<span style="font-size:30px;">**Supervisor**: Sara Tehrani, MD, PhD, MICU specialist</span>
+<div style="margin-top: 80px;"></div>
+<span style="font-size:30px;">**Co-Supervisor**: Maria Cronhjort, MD, PhD, anesthesiologist and ICU specialist</span>
+<div style="margin-top: 80px;"></div>
+<span style="font-size:30px;">**KFC statistician**</span>
+<div style="margin-top: 80px;"></div>
+<span style="font-size:30px;">**Computer and workplace**</span>
+<div style="margin-top: 80px;"></div>
 <img src="images/ki-ds.png" class="logo">
 ---
 
