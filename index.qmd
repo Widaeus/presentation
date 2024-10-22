@@ -395,6 +395,8 @@ gantt
 <div style="margin-top: 80px;"></div>
 <span style="font-size:30px;">**Computer and workplace**</span>
 <div style="margin-top: 80px;"></div>
+
+<br>
 <img src="images/ki-ds.png" class="logo">
 ---
 
