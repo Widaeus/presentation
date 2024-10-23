@@ -165,9 +165,12 @@ Picture of chambers on pericam
 #### CapriS, Capillary Dysfunction in Sepsis
 <span style="font-size: 25px;">**Population:** 60 patients, &gt;18 yrs with confirmed/suspected infection at ICU/IMCU &lt;12hrs and SBP &lt;90mmHg despite 10 mL/kg cristalloid.</span>
 <br>
-<span style="font-size: 25px;">***Statistics:*** Something about power analysis.</span>
-<div style="position: absolute; bottom: 0; text-align: center;">
-  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
+<span style="font-size: 25px;"> *Exclusion criteria:* Advanced age, advanced dementia, multiple severe diseases and/or terminal
+disease who are subject to treatment limitations such as use of intravenous vasopressor
+drugs. </span>
+<br>
+<div style="position: absolute; bottom: 0; width: 100%; margin-bottom: 30px;">
+  <span style="font-size: 25px;">***Statistics:*** ΔpCBV: 0.4 mm/s (SD: 0.36 mm/s), N = 20 T1D (mean age 35), severe microangiopathy, pancreas/kidney transplant, Control: 19 healthy, age-matched, Power: 80%, α: 0.05, Mortality: 20%, **Required** N = 43, plan for 60 to account for dropouts</span>
 </div>
 <br>
 <img src="images/ki-ds.png" class="logo">
@@ -176,9 +179,15 @@ Picture of chambers on pericam
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### CapriS, Capillary Dysfunction in Sepsis
-<span style="font-size: 25px;">**Intevention:** Laser speckle contrast imaging, with iontophoresis. Biomarkers. Echocardiography at set intervals.</span>
+<span style="font-size: 25px;">**Intevention:**</span>
+<br>
+<span style="font-size: 25px;">Laser speckle contrast imaging, with iontophoresis and associated measurements</span>
+<br>
+<span style="font-size: 25px;">Biomarkers</span>
+<br>
+<span style="font-size: 25px;">Echocardiography at set intervals</span>
 <div style="position: absolute; bottom: 0; text-align: center;">
-  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
+  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 50px;">
 </div>
 <br>
 <img src="images/ki-ds.png" class="logo">
@@ -187,10 +196,11 @@ Picture of chambers on pericam
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### CapriS, Capillary Dysfunction in Sepsis
-<span style="font-size: 25px;">**Comparison:** Healthy controls.</span>
-<div style="position: absolute; bottom: 0; text-align: center;">
-  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
-</div>
+<span style="font-size: 25px;">**Comparison:**</span>
+<br>
+<span style="font-size: 25px;">Investigations of skin capillary blood flow and overall skin microcirculation will be performed in 30 healthy controls</span>
+<br>
+<span style="font-size: 25px;">Exclusion: Chronic diseases, on-going medical treatment for disease, signs or on-going investigation for infection or inflammatory condition</span> 
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -198,12 +208,21 @@ Picture of chambers on pericam
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### CapriS, Capillary Dysfunction in Sepsis
-<span style="font-size: 25px;">**Outcome:** Flow mesurements etc.</span>
-<div style="position: absolute; bottom: 0; text-align: center;">
-  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
-</div>
+<span style="font-size: 25px;">**Outcome:**</span>
 <br>
-<img src="images/ki-ds.png" class="logo">
+<span style="font-size: 25px;">**Primary**: Peak capillary blood cell velocity (pCVB, mm/s) following one-minute arterial occlusion and it's association with 30-day mortality</span>
+<br>
+<span style="font-size: 25px;">**Secondary**: pCVB and its association with:</span>
+<br>
+<span style="font-size: 25px;"> Severity of condition; length of stay at ICU/MICU, vasoactive drug administration, SOFA score</span>
+<br>
+<span style="font-size: 25px;"> Macrocirculatory parameters; mean arterial pressure, left ventricular function</span>
+<br>
+<span style="font-size: 25px;"> Biomarkers; serum lactate</span>
+<br>
+<span style="font-size: 25px;">Functional data analysis of iontophoresis response curves to assess significant differences and their association with mortality</span>
+<br>
+  <img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
