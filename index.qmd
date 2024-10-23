@@ -63,7 +63,7 @@ Method evaluation in clinical studies
 <div style="margin-bottom: 30px;"></div>
 
 <span style="font-size:25px;">**Current methods**</span>
-
+<div style="margin-top: 80px;"></div>
 :::: {.columns}
 
 ::: {.column width="35%"}
@@ -91,7 +91,7 @@ Method evaluation in clinical studies
 <div style="margin-bottom: 30px;"></div>
 
 <span style="font-size:25px;">**Future methods - what is needed?**</span>
-
+<div style="margin-top: 40px;"></div>
 :::: {.columns}
 
 ::: {.column width="40%"}
@@ -120,14 +120,25 @@ Method evaluation in clinical studies
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 <br>
-Picture of LSCI
+<div style="text-align: center;">
+  <img src="images/pericam.jpg" style="width: 60%;">
+</div>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 <br>
-Picture of curves
+Picture of chambers on pericam
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+<br>
+<div style="text-align: center;">
+  <img src="images/lsci_ionto.png" style="width: 100%;">
+</div>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
