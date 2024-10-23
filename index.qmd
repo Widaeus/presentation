@@ -163,52 +163,120 @@ Picture of chambers on pericam
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### CapriS, Capillary Dysfunction in Sepsis
-<span style="font-size: 19px;">**Population:** 60 patients, &gt;18 yrs with confirmed/suspected infection at ICU/IMCU &lt;12hrs and SBP &lt;90mmHg despite 10 mL/kg cristalloid.</span>
-<div style="margin-bottom: 1px;"></div>
-<span style="font-size: 19px;">**Intevention:** Laser speckle contrast imaging, with iontophoresis. Biomarkers. Echocardiography at set intervals.</span>
-<div style="text-align: center;">
-  <img src="images/capris_studyprotocol.png" style="width: 60%;">
+<span style="font-size: 25px;">**Population:** 60 patients, &gt;18 yrs with confirmed/suspected infection at ICU/IMCU &lt;12hrs and SBP &lt;90mmHg despite 10 mL/kg cristalloid.</span>
+<br>
+<span style="font-size: 25px;">***Statistics:*** Something about power analysis.</span>
+<div style="position: absolute; bottom: 0; text-align: center;">
+  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
 </div>
-<span style="font-size: 19px;">**Comparison:** 30 healthy controls.</span>
-<div style="margin-bottom: 1px;"></div>
-<span style="font-size: 19px;">**Outcomes:** *Primary outcome:* peak capillary blood cell velocity (pCVB, mm/s). *Secondary outcomes:* Severity of condition, macrocirculatory parameters, biomarkers.</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### CapriS, Capillary Dysfunction in Sepsis
+<span style="font-size: 25px;">**Intevention:** Laser speckle contrast imaging, with iontophoresis. Biomarkers. Echocardiography at set intervals.</span>
+<div style="position: absolute; bottom: 0; text-align: center;">
+  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
+</div>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### CapriS, Capillary Dysfunction in Sepsis
+<span style="font-size: 25px;">**Comparison:** Healthy controls.</span>
+<div style="position: absolute; bottom: 0; text-align: center;">
+  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
+</div>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### CapriS, Capillary Dysfunction in Sepsis
+<span style="font-size: 25px;">**Outcome:** Flow mesurements etc.</span>
+<div style="position: absolute; bottom: 0; text-align: center;">
+  <img src="images/capris_studyprotocol.png" style="width: 90%; margin-bottom: 70px;">
+</div>
+<br>
+<img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### MIND, Microangiopathy in Diabetes
-<span style="font-size: 20px;">**Population:** Patients with DM1 at diabetes outpatient clinic at Danderyd Hospital.</span>
+<span style="font-size: 25px;">**Population:** Patients with DM1 at diabetes outpatient clinic at Danderyd Hospital.</span>
 <br>
-<span style="font-size: 20px;">*Pilot:* 20 healthy controls.</span>
+<span style="font-size: 25px;">*Pilot:* 20 healthy controls.</span>
 <br>
-<span style="font-size: 20px;">*Phase 1:* 50 patients with severe DM1 complications and 50 healthy controls.</span>
+<span style="font-size: 25px;">*Phase 1:* 50 patients with severe DM1 complications and 50 healthy controls.</span>
 <br>
-<span style="font-size: 20px;">*Phase 2:* 100 patients with no microangiopathy, 100 patients with mild microangiopathy, 50 with moderate microangiopathy, as classified by microangiopathy score <a href="https://journals.sagepub.com/doi/full/10.1177/1479164120928303">[1]</a>.</span>
-<br>
-<span style="font-size: 20px;">**Intervention:** LSCI, blood tests and charts.</span>
-<br>
-<span style="font-size: 20px;">**Controls:** Healthy controls in each cohort.</span>
-<br>
-<span style="font-size: 20px;">**Outcomes:** Thermal regulation, flow regulation</span>
+<span style="font-size: 25px;">*Phase 2:* 100 patients with no microangiopathy, 100 patients with mild microangiopathy, 50 with moderate microangiopathy, as classified by microangiopathy score <a href="https://journals.sagepub.com/doi/full/10.1177/1479164120928303">[1]</a>.</span>
 <br>
   <img src="images/ki-ds.png" class="logo">
 <br>
-<span style="font-size: 20px;">[1]: <a href="https://doi.org/10.1177/1479164120928303">10.1177/1479164120928303</a></span>
+<div style="position: absolute; bottom: 0; width: 100%; margin-bottom: 70px;">
+  <span style="font-size: 20px;">[1]: <a href="https://doi.org/10.1177/1479164120928303">10.1177/1479164120928303</a></span>
+</div>
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### MIND, Microangiopathy in Diabetes
+
+<span style="font-size: 25px;">**Intervention:** LSCI, blood tests and charts.</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### MIND, Microangiopathy in Diabetes
+<span style="font-size: 25px;">**Controls:** Healthy controls in each cohort.</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### MIND, Microangiopathy in Diabetes
+<span style="font-size: 25px;">**Outcomes:** Thermal regulation, flow regulation</span>
+<br>
+<img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### SCAPIS2Spectrum, Microcirculation Substudy
-<span style="font-size: 20px;">**Population:** Substudy to SCAPIS2. 900 in total to be included in 5 arms; O-CAD, ANOCA, HFpEF, HFrEF and diabetes, including corresponding healthy controls from SCAPIS2 cohort.</span>
+<span style="font-size: 25px;">**Population:** Substudy to SCAPIS2. 900 in total to be included in 5 arms; O-CAD, ANOCA, HFpEF, HFrEF and diabetes, including corresponding healthy controls from SCAPIS2 cohort.</span>
 <br>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### SCAPIS2Spectrum, Microcirculation Substudy
+<span style="font-size: 25px;">**Intervention:** LSCI, biomarkers, and adenosine stress cardiac MRI.</span>
 <br>
-<span style="font-size: 20px;">**Intervention:** LSCI, biomarkers, and adenosine stress cardiac MRI.</span>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### SCAPIS2Spectrum, Microcirculation Substudy
+<span style="font-size: 25px;">**Comparison:** Healthy controls</span>
 <br>
-<br>
-<span style="font-size: 20px;">**Comparison:** Healthy controls</span>
-<br>
-<br>
-<span style="font-size: 20px;">**Outcome:** *Primary outcomes:* Flowmotion analysis, post-occlusion hyperemeia, thermal provocations. *Secondary outcomes:* Biomarkers</span>
+<img src="images/ki-ds.png" class="logo">
+---
+
+<span style="font-size: 20px;">Research Plan and Methodology</span>
+
+#### SCAPIS2Spectrum, Microcirculation Substudy
+<span style="font-size: 25px;">**Outcome:** *Primary outcomes:* Flowmotion analysis, post-occlusion hyperemeia, thermal provocations. *Secondary outcomes:* Biomarkers</span>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
