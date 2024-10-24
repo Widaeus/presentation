@@ -170,7 +170,7 @@ disease who are subject to treatment limitations such as use of intravenous vaso
 drugs. </span>
 <br>
 <div style="position: absolute; bottom: 0; width: 100%; margin-bottom: 30px;">
-  <span style="font-size: 25px;">***Statistics:*** ΔpCBV: 0.4 mm/s (SD: 0.36 mm/s), N = 20 T1D (mean age 35), severe microangiopathy, pancreas/kidney transplant, Control: 19 healthy, age-matched, Power: 80%, α: 0.05, Mortality: 20%, **Required** N = 43, plan for 60 to account for dropouts</span>
+  <span style="font-size: 20px;">***Statistics:*** ΔpCBV: 0.4 mm/s (SD: 0.36 mm/s), N = 20 T1D (mean age 35), severe microangiopathy, pancreas/kidney transplant, Control: 19 healthy, age-matched, Power: 80%, α: 0.05, Mortality: 20%, **Required** N = 43, plan for 60 to account for dropouts</span>
 </div>
 <br>
 <img src="images/ki-ds.png" class="logo">
@@ -228,17 +228,20 @@ drugs. </span>
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### MIND, Microangiopathy in Diabetes
-<span style="font-size: 25px;">**Population:** Patients with DM1 at diabetes outpatient clinic at Danderyd Hospital.</span>
+<span style="font-size: 25px;">**Population:** Patients with Diabetes Mellitus type 1 (DM1) at diabetes outpatient clinic at Danderyd Hospital.</span>
 <br>
-<span style="font-size: 25px;">*Pilot:* 20 healthy controls.</span>
+<span style="font-size: 25px;">**Pilot:** 20 healthy controls.</span>
 <br>
-<span style="font-size: 25px;">*Phase 1:* 50 patients with severe DM1 complications and 50 healthy controls.</span>
+<span style="font-size: 25px;">**Phase 1:** 50 patients with severe DM1 complications and 50 healthy controls.</span>
 <br>
-<span style="font-size: 25px;">*Phase 2:* 100 patients with no microangiopathy, 100 patients with mild microangiopathy, 50 with moderate microangiopathy, as classified by microangiopathy score <a href="https://journals.sagepub.com/doi/full/10.1177/1479164120928303">[1]</a>.</span>
+<span style="font-size: 25px;">**Phase 2:** 100 patients with no microangiopathy, 100 patients with mild microangiopathy, 50 with moderate microangiopathy, as classified by microangiopathy score <a href="https://journals.sagepub.com/doi/full/10.1177/1479164120928303">[1]</a>.</span>
 <br>
+<div style="position: absolute; bottom: 0; width: 100%; margin-bottom: 30px;">
+  <span style="font-size: 20px;">***Statistics:*** Two-sided independent t-tests with 0,05 significant level and 80% power shows a need for at least 100 individuals with mild microangiopathy and 25 patients with moderate microangiopathy to show significant differences in endothelial-dependent vasodilation between patients and controls.</span>
+</div>
   <img src="images/ki-ds.png" class="logo">
 <br>
-<div style="position: absolute; bottom: 0; width: 100%; margin-bottom: 70px;">
+<div style="position: absolute; bottom: 0; width: 100%; margin-bottom: 0px;">
   <span style="font-size: 20px;">[1]: <a href="https://doi.org/10.1177/1479164120928303">10.1177/1479164120928303</a></span>
 </div>
 ---
@@ -247,7 +250,17 @@ drugs. </span>
 
 #### MIND, Microangiopathy in Diabetes
 
-<span style="font-size: 25px;">**Intervention:** LSCI, blood tests and charts.</span>
+<span style="font-size: 25px;">**Intervention:**</span>
+<br>
+<span style="font-size: 25px;">Laser speckle contrast imaging(LSCI) with iontophoresis</span>
+<br>
+<span style="font-size: 25px;">Enhanced perfusion and oxygen saturation(EPOS)</span>
+<br>
+<span style="font-size: 25px;">TCI</span>
+<br>
+<span style="font-size: 25px;">VibroSense</span>
+<br>
+<span style="font-size: 25px;">Biomarkers</span>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -263,15 +276,28 @@ drugs. </span>
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### MIND, Microangiopathy in Diabetes
-<span style="font-size: 25px;">**Outcomes:** Thermal regulation, flow regulation</span>
-<br>
+<span style="font-size: 25px;">**Outcomes:**</span>
+<div style="margin-bottom: 30px;"></div>
+<span style="font-size: 25px;">*Primary:* Capillary blood flow responses to thermal provocations between DM1 and controls.</span>
+<div style="margin-bottom: 50px;"></div>
+<span style="font-size: 25px;">*Secondary:* Capillary blood flow responses to medical provocation(iontophoresis of ACh and SNP), stratified between DM1 with serious to mild complications, as well as controls. Capillary blood flow responses stratified to reduced blood flow circulation in feet as measured by TCI.</span>
 <img src="images/ki-ds.png" class="logo">
 ---
 
 <span style="font-size: 20px;">Research Plan and Methodology</span>
 
 #### SCAPIS2Spectrum, Microcirculation Substudy
-<span style="font-size: 25px;">**Population:** Substudy to SCAPIS2. 900 in total to be included in 5 arms; O-CAD, ANOCA, HFpEF, HFrEF and diabetes, including corresponding healthy controls from SCAPIS2 cohort.</span>
+<span style="font-size: 25px;">**Population:** Substudy to SCAPIS2. Up to 900 in total to be included.</span>
+<div style="margin-bottom: 30px;"></div>
+<span style="font-size: 25px;">Obstructive coronary artery disease (O-CAD)</span>
+<div style="margin-bottom: 30px;"></div>
+<span style="font-size: 25px;">Angina with non obstructive coronary arteries (ANOCA)</span>
+<div style="margin-bottom: 30px;"></div>
+<span style="font-size: 25px;">Heart failure with preserved ejection fraction (HFpEF)</span>
+<div style="margin-bottom: 30px;"></div>
+<span style="font-size: 25px;">Heart failure with reduced ejection fration (HFrEF)</span>
+<div style="margin-bottom: 30px;"></div>
+<span style="font-size: 25px;">Diabetes with incomplete metabolic control</span>
 <br>
 <img src="images/ki-ds.png" class="logo">
 ---
@@ -401,7 +427,8 @@ drugs. </span>
 <img src="images/ki-ds.png" class="logo">
 ---
 
-#### Degree outcomes
+<span style="font-size: 20px;">Degree outcomes</span>
+
 <span style="font-size:30px;">**9A - Knowledge and understanding**</span>
 
   - <span style="font-size:20px;">Clinical work</span>
@@ -412,7 +439,7 @@ drugs. </span>
 <img src="images/ki-ds.png" class="logo">
 ---
 
-#### Degree outcomes
+<span style="font-size: 20px;">Degree outcomes</span>
 
 <span style="font-size:30px;">**9B - Proficiency and ability**</span>
 
@@ -425,7 +452,8 @@ drugs. </span>
 <img src="images/ki-ds.png" class="logo">
 ---
 
-#### Degree outcomes
+<span style="font-size: 20px;">Degree outcomes</span>
+
 <span style="font-size:30px;">**9C - Judgement and approach**</span>
 
   - <span style="font-size:20px;">Educational courses in ethics and executing clinical studies</span>
